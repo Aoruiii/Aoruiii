@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Aorui.
+- 🔭 I‘m a data analyst with business operation and software design experience.
+- 🌱 I‘m working on exploratory data analysis projects, including data cleaning, identifying business trends and creating visualization.
+- 💬 Proficiency with SQL, R and Tableau.
+- 📫 How to reach me: aorui.tan@gmail.com or Linkedin
+
+  
 <!--
 **Aoruiii/Aoruiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
