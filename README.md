@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Aorui.
+- 👯 I’m currently working on web development.
+- 🔭 Javascript, React, CSS, HTML.
 
 
   
