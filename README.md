@@ -2,7 +2,8 @@
 
 I'm Aorui.
 - 👯 I’m currently working on web development.
-- 🔭 Javascript, React, CSS, HTML.
+- Front End: Javascript, Typescript, React, CSS, HTML
+- Back End: C#, .NET
 
 
   
